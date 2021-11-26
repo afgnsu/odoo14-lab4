@@ -8,7 +8,7 @@
 <!--    />-->
 
     <record id="act_bangumi_view" model="ir.actions.act_window">
-        <field name="name">Bangumi</field>
+        <field name="name">Lab4(Bangumi模塊)</field>
         <field name="res_model">bangumi.bangumi</field>
         <field name="view_mode">tree,kanban,form</field>
         <field name="view_id" ref="view_bangumi_bangumi_list"/>
@@ -16,7 +16,7 @@
 
     <menuitem
         id="menu_bangumi_view"
-        name="Bangumi"
+        name="Lab4(Bangumi模塊)"
         action="act_bangumi_view"
         groups="base.group_user"
     />

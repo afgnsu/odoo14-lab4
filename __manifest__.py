@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Bangumi",
+    'name': "Lab4(Bangumi模塊)",
     'application': True,
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
